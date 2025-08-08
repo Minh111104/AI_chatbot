@@ -1,4 +1,4 @@
-# AI_chatbot 🤖
+# AI chatbot 🤖
 
 Ollama Simple AI Chatbot
 
