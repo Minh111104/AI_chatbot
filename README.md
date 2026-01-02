@@ -1,7 +1,5 @@
 # AI chatbot 🤖
 
-Ollama Simple AI Chatbot
-
 ## Overview
 
 This is a simple AI chatbot powered by the Ollama server and the `gemma2:9b` model. The bot is designed to have a friendly personality, loves football (especially FC Barcelona), and enjoys helping with programming problems (you can change this settings).
