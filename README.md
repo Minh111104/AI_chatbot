@@ -8,9 +8,9 @@ Before running the chatbot, ensure the following:
 
 1. **Python**: Install Python 3.7 or higher.
 2. **Python Package**: Install the `openai` Python package:
-   ```bash
-        pip install openai
-   ```
+      ```bash
+      pip install openai
+      ```
 3. **Ollama Server**: Ensure the Ollama server is installed and running locally on `http://localhost:11434`. You can download Ollama from its official website.
 
 ## How to Run the Bot Locally
@@ -19,13 +19,13 @@ Follow these steps to run the chatbot:
 
 1. Clone this repository or download the project files.
 2. Open a terminal and navigate to the project directory:
-    ```bash
-        cd AI_chatbot
-    ```
+   ```bash
+   cd AI_chatbot
+   ```
 3. Run the chatbot script:
-    ```bash
-        python ai_bot.py
-    ```
+   ```bash
+   python ai_bot.py
+   ```
 4. Interact with the bot by typing your messages. To exit the chat, type `exit`.
 
 ## Features
